@@ -54,8 +54,8 @@ After operating on the linkedlist, a new string with output number is created an
 8. #### Comparison : int bigInt_compare(char *n1, char *n2)
     It takes two strings as an input and compares them. It will return  
      * 1 if n1 > n2  
-     *0 if n1 = n2  
-     *-1 if n1 < n2.
+     * 0 if n1 = n2  
+     * -1 if n1 < n2.
 
 
 ## Goals
