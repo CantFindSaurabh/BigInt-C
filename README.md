@@ -34,28 +34,28 @@ After operating on the linkedlist, a new string with output number is created an
     It takes two strings as an input and returns the mathematical addition (n1 + n2) of these numbers as a new string.
 
 2. #### Subtraction: char* bigInt_subtraction(char *n1, char *n2) 
-It takes two strings as an input and returns the mathematical subtraction (n1 - n2) of these numbers as a new string.
+    It takes two strings as an input and returns the mathematical subtraction (n1 - n2) of these numbers as a new string.
 
 3. #### Multiplication : char* bigInt_multiplication(char *n1, char *n2)  
-It takes two strings as an input and returns the mathematical multiplication (n1 * n2) of these numbers as a new string.
+    It takes two strings as an input and returns the mathematical multiplication (n1 * n2) of these numbers as a new string.
 
 4. #### Divison : char* bigInt_divide(char *n1, char *n2) 
-It takes two strings as an input and returns the mathematical divison (n1 / n2) of these numbers as a new string.
+    It takes two strings as an input and returns the mathematical divison (n1 / n2) of these numbers as a new string.
 
 5. #### Modulus : char* bigInt_modulus(char *n1, char *n2) 
-It takes two strings as an input and returns the mathematical modulus (n1 % n2) of these numbers as a new string.
+    It takes two strings as an input and returns the mathematical modulus (n1 % n2) of these numbers as a new string.
 
 6. #### Factorial : char* bigInt_factorial(char *n1) 
-It takes a string as an input and returns the factorial ( n1! ) of that number as a new string.
+    It takes a string as an input and returns the factorial ( n1! ) of that number as a new string.
 
 7. #### Power : char* bitInt_power(char *n1, char* n2) 
-It takes two strings as an input and returns the mathematical power (n1 ^ n2) of these numbers as a new string.
+    It takes two strings as an input and returns the mathematical power (n1 ^ n2) of these numbers as a new string.
 
 8. #### Comparison : int bigInt_compare(char *n1, char *n2)
-It takes two strings as an input and compares them. It will return  
- * 1 if n1 > n2  
- *0 if n1 = n2  
- *-1 if n1 < n2.
+    It takes two strings as an input and compares them. It will return  
+     * 1 if n1 > n2  
+     *0 if n1 = n2  
+     *-1 if n1 < n2.
 
 
 ## Goals
