@@ -48,7 +48,7 @@ After operating on the linkedlist, a new string with output number is created an
 6. #### Factorial : char* bigInt_factorial(char *n1) 
     It takes a string as an input and returns the factorial ( n1! ) of that number as a new string.
 
-7. #### Power : char* bigInt_power(char *n1, char* n2) 
+7. #### Power : char* bigInt_power(char *n1, char *n2) 
     It takes two strings as an input and returns the mathematical power (n1 ^ n2) of these numbers as a new string.
 
 8. #### Comparison : int bigInt_compare(char *n1, char *n2)
